@@ -1,0 +1,14 @@
+movieapp/
+├── package.json
+├── .env
+├── public/
+│   └── index.html
+└── src/
+    ├── index.js
+    ├── firebase.js
+    ├── App.js
+    └── components/
+        ├── Login.js
+        ├── Dashboard.js
+        ├── Upload.js
+        └── Watch.js
